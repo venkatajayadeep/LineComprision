@@ -1,8 +1,8 @@
 package BridgeLabz;
 
-public class LineComprision {
+public class UC_1 {
+	public static void main(String[] args){
 
-	public static void main(String[] args) {
 		int x1 = 4;
 		int x2 = 8;
 		int y1 = 3;
@@ -15,6 +15,6 @@ public class LineComprision {
 		System.out.println("Length of a line::" + Length_line);
 	
 	}
-	}
 
+}
 
